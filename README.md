@@ -1,5 +1,16 @@
 # Packet Tracer Lab: Troubleshoot a Wireless Connection
-
+## Table of Contents
+- [Overview](#overview)
+- [Methodology & Steps](#methodology--steps)
+  - [1. Problem Identification](#1-problem-identification)
+  - [2. Discovering Router IP](#2-discovering-the-router-ip-address)
+  - [3. Accessing Router Configuration](#3-accessing-the-routers-configuration)
+  - [4. Investigating Wireless Settings](#4-investigating-wireless-settings)
+  - [5. Implementing Solution](#5-implementing-the-solution)
+- [Key Learnings](#key-learnings)
+- [Tools Used](#tools-used)
+- [Repository Structure](#repository-structure)
+- [Skills Demonstrated](#skills-demonstrated)
 **Objective:** Diagnose and resolve a wireless connectivity issue for a client (Laptop1) in a simulated network.
 
 ## Overview
